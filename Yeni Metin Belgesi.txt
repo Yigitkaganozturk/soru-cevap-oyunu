@@ -1,0 +1,2 @@
+Soru [abc,bc,cd,de]
+Cevap[bc,cd,de,efg]
