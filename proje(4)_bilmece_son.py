@@ -8,8 +8,7 @@ Created on Thu Jul 14 18:44:08 2022
 from tkinter import *
 import time
 import random
-import os
-os.chdir('C:\\Users\\yiitk\\Masaüstü\\python')
+
 
 dosya = open('Yeni Metin Belgesi.txt',"r",encoding="utf-8")
 oku = dosya.read()
